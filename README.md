@@ -1,6 +1,6 @@
 # Investing-Algorithm
 
-No README or LICENSE as I do not plan to release into the public domain.
+why are you here
 Will update if needed.
 
 A program which utilizes web scraping and sentiment analysis to suggest stocks to buy.
